@@ -1,4 +1,4 @@
----
+a---
 layout: HubPage
 hide_bc: True
 title: "Microsoft Azure のドキュメント"
